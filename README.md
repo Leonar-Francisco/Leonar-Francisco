@@ -14,7 +14,7 @@ const Leonar Francisco = {
     utils: {
         system: {
             linux: ["vscode", "postman"],
-            windows: ["vscode", "docker"],       
+            windows: ["vscode", "postman"],       
         },
         
 };
